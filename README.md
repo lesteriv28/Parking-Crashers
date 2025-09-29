@@ -17,7 +17,7 @@ The project leverages the **ZedBoard FPGA** with **Xilinx Vivado/SDK tools**, en
 4. [User Manual](#️-user-manual)  
 5. [IP Used](#-ip-used)  
 6. [Results](#-results)  
-7. [Limitations](#-limitations)  
+7. [Limitations](#️-limitations)  
 8. [Future Work](#-future-work)  
 9. [Design Tree](#-design-tree)  
 10. [Software Hierarchy](#-software-hierarchy)  
