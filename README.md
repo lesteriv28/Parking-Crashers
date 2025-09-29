@@ -21,9 +21,8 @@ The project leverages the **ZedBoard FPGA** with **Xilinx Vivado/SDK tools**, en
 8. [Future Work](#-future-work)  
 9. [Design Tree](#-design-tree)  
 10. [Software Hierarchy](#-software-hierarchy)  
-11. [Screenshots](#-screenshots)  
-12. [Setup & Build Instructions](#-setup--build-instructions)  
-13. [Authors](#-authors)   
+11. [Setup & Build Instructions](#️-setup--build-instructions)  
+12. [Authors](#️-authors)   
 
 ---
 
